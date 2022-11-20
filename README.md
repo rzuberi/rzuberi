@@ -28,6 +28,9 @@ Developing generalist ML models to track live cell images:
 ### Databases
 - [SQL example hospital database manipulation](https://github.com/rzuberi/SQL_hospital_db)
 
+### Java development
+- [Marupeke game with a JavaFX GUI](https://github.com/rzuberi/Marupeke)
+
 <!--
 **rzuberi/rzuberi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
