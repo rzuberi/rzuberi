@@ -1,7 +1,7 @@
 # Rehan Zuberi's GitHub profile 🦠🤖🧠
 Final year Computer Science & AI Student
 
-Interested in Computational Biology: designing ML models to explore biological datasets.
+Interested in Computational Biology: designing ML models to explore biological datasets
 
 email: rehanzuberi@icloud.com
 
