@@ -1,5 +1,5 @@
 # Rehan Zuberi's GitHub profile 🦠🤖🧠
-Final year Computer Science & AI Student
+Final year Computer Science & AI BSC student
 
 Interested in Computational Biology: designing ML models to explore biological datasets
 
