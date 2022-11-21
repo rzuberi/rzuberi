@@ -26,7 +26,7 @@ Developing generalist ML models to track live cell images:
 - [Classifying memorable images](https://github.com/rzuberi/memorability_classification)
 
 ### Databases
-- [MongoDB Database](https://github.com/rzuberi/expressDatabase)
+- [Spring Boot demo updatable database](https://github.com/rzuberi/SpringBootDemo)
 - [SQL example hospital database manipulation](https://github.com/rzuberi/SQL_hospital_db)
 
 ### Java development
