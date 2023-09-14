@@ -1,5 +1,7 @@
 # Rehan Zuberi's GitHub profile 🦠🤖🧠
-Final year Computer Science & AI BSC student
+
+Currently studying an MPhil in Computational Biology at the University of Cambridge
+Graduated from the University of Sussex with a BSc in Computer Science & AI
 
 Interested in Computational Biology: designing ML models to explore biological datasets
 
