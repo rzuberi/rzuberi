@@ -1,22 +1,22 @@
 # Rehan Zuberi's GitHub profile 🦠🤖🧠
 
-Currently studying an MPhil in Computational Biology at the University of Cambridge
+PhD researcher in Medical Sciences (AI in Oncology) at the University of Cambridge, working at the Cancer Research UK Cambridge Institute.
 
-Graduated from the University of Sussex with a BSc in Computer Science & AI
+Building and stress-testing multimodal AI systems that combine histopathology, genomics, and patient data to improve early cancer diagnosis and clinical safety.
 
-Interested in Computational Biology: designing ML models to explore biological and medical imaging datasets
+Interested in computational biology, AI governance, and trustworthy clinical machine learning with a focus on interpretability, reproducibility, and responsible deployment.
 
 email: rehanzuberi@icloud.com
 
 linkedin: [rehanzuberi](https://www.linkedin.com/in/rehanzuberi/)
+
+## Past projects
 
 ## Currently working on live cell tracking
 Developing generalist ML models to track live cell images:
 - [Developing a Napari plugin to track static cells and match them](https://github.com/rzuberi/napari-exploration)
 - [Developing a U-Net model to distill CellPose2](https://github.com/rzuberi/u_net_exploration)
 - [Model to segment cells and attempts to classify static cells into their cell cycle phase](https://github.com/rzuberi/cell-SCT)
-
-## Past projects
 
 ### Computer Vision
 - [Face alignment with a CNN and HOG features](https://github.com/rzuberi/Face_Alignment_HOG_CNN)
