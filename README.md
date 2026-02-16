@@ -20,11 +20,19 @@ Building a SLURM-backed local LLM inference tool for CRUK CI that enables reprod
 
 ## Archived Projects
 [Cell Segmentation-Classification-Tracking](https://github.com/rzuberi/cell-SCT)
+
 [Napari Extension](https://github.com/rzuberi/napari-exploration)
+
 [U-Net Development](https://github.com/rzuberi/u_net_exploration)
+
 [Face Alignment Task with HOG features and CNN](https://github.com/rzuberi/Face_Alignment_HOG_CNN)  
+
 [Memorability Classification](https://github.com/rzuberi/memorability_classification)  
+
 [Evoluationary Cart Pole](https://github.com/rzuberi/cart_pole_FMGA)
+
 [SpringBoot Database](https://github.com/rzuberi/SpringBootDemo)
+
 [SQL Hospital Database](https://github.com/rzuberi/SQL_hospital_db)
+
 [Marupeke Game](https://github.com/rzuberi/Marupeke)
