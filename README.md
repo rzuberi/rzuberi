@@ -10,38 +10,21 @@ rdaz2@cam.ac.uk, [LinkedIn](www.linkedin.com/in/rehanzuberi/), [schedule a call 
 
 ## Current Projects
 
-### Multimodal progression prediction in Barrett’s oesophagus  
-https://github.com/rzuberi/barretts_progressor  
+### [Multimodal progression prediction in Barrett’s oesophagus](https://github.com/rzuberi/barretts_progressor)  
 Developing and benchmarking multimodal models combining histopathology and copy number variation data to predict progression risk in Barrett’s oesophagus.
 
-### hpc-llm  
-https://github.com/rzuberi/hpc-llm  
+### [hpc-llm](https://github.com/rzuberi/hpc-llm)
 Building a SLURM-backed local LLM inference tool for CRUK CI that enables reproducible, logged, GPU-based model execution on institutional HPC infrastructure.
 
 ---
 
-## Archive
-
-### Live cell tracking and segmentation  
-Developed generalist ML approaches for cell tracking, segmentation, and cell-cycle classification in live microscopy data.
-
-- https://github.com/rzuberi/napari-exploration  
-- https://github.com/rzuberi/u_net_exploration  
-- https://github.com/rzuberi/cell-SCT  
-
-### Computer vision  
-- https://github.com/rzuberi/Face_Alignment_HOG_CNN  
-
-### Evolutionary algorithms  
-- https://github.com/rzuberi/memorability_classification  
-- https://github.com/rzuberi/cart_pole_FMGA  
-
-### Machine learning  
-- https://github.com/rzuberi/memorability_classification  
-
-### Databases and backend systems  
-- https://github.com/rzuberi/SpringBootDemo  
-- https://github.com/rzuberi/SQL_hospital_db  
-
-### Java development  
-- https://github.com/rzuberi/Marupeke  
+## Archived Projects
+[Cell Segmentation-Classification-Tracking](https://github.com/rzuberi/cell-SCT)
+[Napari Extension](https://github.com/rzuberi/napari-exploration)
+[U-Net Development](https://github.com/rzuberi/u_net_exploration)
+[Face Alignment Task with HOG features and CNN](https://github.com/rzuberi/Face_Alignment_HOG_CNN)  
+[Memorability Classification](https://github.com/rzuberi/memorability_classification)  
+[Evoluationary Cart Pole](https://github.com/rzuberi/cart_pole_FMGA)
+[SpringBoot Database](https://github.com/rzuberi/SpringBootDemo)
+[SQL Hospital Database](https://github.com/rzuberi/SQL_hospital_db)
+[Marupeke Game](https://github.com/rzuberi/Marupeke)
