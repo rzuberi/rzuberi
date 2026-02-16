@@ -1,51 +1,48 @@
-# Rehan Zuberi's GitHub profile 🦠🤖🧠
+# Rehan Zuberi
 
 PhD researcher in Medical Sciences (AI in Oncology) at the University of Cambridge, working at the Cancer Research UK Cambridge Institute.
 
-Building and stress-testing multimodal AI systems that combine histopathology, genomics, and patient data to improve early cancer diagnosis and clinical safety.
+I design multimodal machine learning systems that integrate histopathology, genomics, and clinical data for early cancer progression prediction, with emphasis on reproducibility, safety, and deployment in research infrastructure.
 
-Interested in computational biology, AI governance, and trustworthy clinical machine learning with a focus on interpretability, reproducibility, and responsible deployment.
+Email: rehanzuberi@icloud.com  
+LinkedIn: https://www.linkedin.com/in/rehanzuberi/
 
-email: rehanzuberi@icloud.com
+---
 
-linkedin: [rehanzuberi](https://www.linkedin.com/in/rehanzuberi/)
+## Current Projects
 
-## Past projects
+### Multimodal progression prediction in Barrett’s oesophagus  
+https://github.com/rzuberi/barretts_progressor  
+Developing and benchmarking multimodal models combining histopathology and copy number variation data to predict progression risk in Barrett’s oesophagus.
 
-## Currently working on live cell tracking
-Developing generalist ML models to track live cell images:
-- [Developing a Napari plugin to track static cells and match them](https://github.com/rzuberi/napari-exploration)
-- [Developing a U-Net model to distill CellPose2](https://github.com/rzuberi/u_net_exploration)
-- [Model to segment cells and attempts to classify static cells into their cell cycle phase](https://github.com/rzuberi/cell-SCT)
+### hpc-llm  
+https://github.com/rzuberi/hpc-llm  
+Building a SLURM-backed local LLM inference tool for CRUK CI that enables reproducible, logged, GPU-based model execution on institutional HPC infrastructure.
 
-### Computer Vision
-- [Face alignment with a CNN and HOG features](https://github.com/rzuberi/Face_Alignment_HOG_CNN)
+---
 
-### Microbial algorithms
-- [Exploring crossover probability and number of tournaments in Full Microbial Genetic Algorithms](https://github.com/rzuberi/memorability_classification)
-- [Evaluating the cart pole task in Full Microbial Genetic Algorithms](https://github.com/rzuberi/cart_pole_FMGA)
+## Archive
 
-### Machine Learning
-- [Classifying memorable images](https://github.com/rzuberi/memorability_classification)
+### Live cell tracking and segmentation  
+Developed generalist ML approaches for cell tracking, segmentation, and cell-cycle classification in live microscopy data.
 
-### Databases
-- [Spring Boot demo updatable database](https://github.com/rzuberi/SpringBootDemo)
-- [SQL example hospital database manipulation](https://github.com/rzuberi/SQL_hospital_db)
+- https://github.com/rzuberi/napari-exploration  
+- https://github.com/rzuberi/u_net_exploration  
+- https://github.com/rzuberi/cell-SCT  
 
-### Java development
-- [Marupeke game with a JavaFX GUI](https://github.com/rzuberi/Marupeke)
+### Computer vision  
+- https://github.com/rzuberi/Face_Alignment_HOG_CNN  
 
-<!--
-**rzuberi/rzuberi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Evolutionary algorithms  
+- https://github.com/rzuberi/memorability_classification  
+- https://github.com/rzuberi/cart_pole_FMGA  
 
-Here are some ideas to get you started:
+### Machine learning  
+- https://github.com/rzuberi/memorability_classification  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Databases and backend systems  
+- https://github.com/rzuberi/SpringBootDemo  
+- https://github.com/rzuberi/SQL_hospital_db  
+
+### Java development  
+- https://github.com/rzuberi/Marupeke  
