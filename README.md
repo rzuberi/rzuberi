@@ -4,8 +4,7 @@ PhD researcher in Medical Sciences (AI in Oncology) at the University of Cambrid
 
 I design multimodal machine learning systems that integrate histopathology, genomics, and clinical data for early cancer progression prediction, with emphasis on reproducibility, safety, and deployment in research infrastructure.
 
-Email: rehanzuberi@icloud.com  
-LinkedIn: https://www.linkedin.com/in/rehanzuberi/
+rdaz2@cam.ac.uk, [LinkedIn](www.linkedin.com/in/rehanzuberi/), [schedule a call with me](https://cal.com/rehanzuberi)
 
 ---
 
