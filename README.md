@@ -23,6 +23,9 @@ Building a SLURM-backed local LLM inference tool for CRUK CI that enables reprod
 ### [uk-citizenship-practice](https://github.com/rzuberi/uk-citizenship-practice)
 Static GitHub Pages [website](https://rzuberi.github.io/uk-citizenship-practice/) for Life in the UK practice questions wiht a fast topic-first workflow and pre-computed LLM context generation for each question.
 
+### [autotune-live-mac](https://github.com/rzuberi/autotune-live-mac)  
+Minimal macOS SwiftUI application for real-time voice processing using AVAudioEngine. Implements live autotune intensity control, reverb control, device routing (input/output switching), and record mode with timestamped audio export. Designed as a lightweight, local, reproducible audio-processing pipeline runnable via Swift Package Manager (`swift run`) without Xcode UI dependencies.
+
 ---
 
 ## Archived Projects
