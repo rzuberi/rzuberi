@@ -20,8 +20,8 @@ The framework enables controlled experiments on multi-agent coordination, contri
 ### [hpc-llm](https://github.com/rzuberi/hpc-llm)
 Building a SLURM-backed local LLM inference tool for CRUK CI that enables reproducible, logged, GPU-based model execution on institutional HPC infrastructure.
 
-### [uk-citizenship-practice](https://github.com/rzuberi/uk-citizenship-practice) [Live](https://rzuberi.github.io/uk-citizenship-practice/)
-Static GitHub Pages site for Life in the UK practice questions wiht a fast topic-first workflow and pre-computed LLM context generation for each question.
+### [uk-citizenship-practice](https://github.com/rzuberi/uk-citizenship-practice)
+Static GitHub Pages [website](https://rzuberi.github.io/uk-citizenship-practice/) for Life in the UK practice questions wiht a fast topic-first workflow and pre-computed LLM context generation for each question.
 
 ---
 
