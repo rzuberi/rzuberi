@@ -4,7 +4,7 @@ PhD researcher in Medical Sciences (AI in Oncology) at the University of Cambrid
 
 I design multimodal machine learning systems that integrate histopathology, genomics, and clinical data for early cancer progression prediction, with emphasis on reproducibility, safety, and deployment in research infrastructure.
 
-rdaz2@cam.ac.uk, [LinkedIn](www.linkedin.com/in/rehanzuberi/), [schedule a call with me](https://cal.com/rehanzuberi)
+rdaz2@cam.ac.uk · [LinkedIn](www.linkedin.com/in/rehanzuberi/) · [schedule a call with me](https://cal.com/rehanzuberi)
 
 ---
 
@@ -20,6 +20,8 @@ The framework enables controlled experiments on multi-agent coordination, contri
 ### [hpc-llm](https://github.com/rzuberi/hpc-llm)
 Building a SLURM-backed local LLM inference tool for CRUK CI that enables reproducible, logged, GPU-based model execution on institutional HPC infrastructure.
 
+### [uk-citizenship-practice](https://github.com/rzuberi/uk-citizenship-practice) [Live](https://rzuberi.github.io/uk-citizenship-practice/)
+Static GitHub Pages site for Life in the UK practice questions wiht a fast topic-first workflow and pre-computed LLM context generation for each question.
 ---
 
 ## Archived Projects
