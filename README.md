@@ -14,8 +14,7 @@ rdaz2@cam.ac.uk · [LinkedIn](www.linkedin.com/in/rehanzuberi/) · [schedule a c
 Developing and benchmarking multimodal models combining histopathology and copy number variation data to predict progression risk in Barrett’s oesophagus.
 
 ### [llm-contrib-game](https://github.com/rzuberi/llm-contrib-game)
-Designing and running repeated public-goods games where agents are LLMs executed as SLURM jobs via Ollama on HPC infrastructure.  
-The framework enables controlled experiments on multi-agent coordination, contribution dynamics, communication effects, and model-level behavioural differences, with full job-level logging and experiment aggregation.
+Designing and running repeated public-goods games where agents are LLMs executed as SLURM jobs via Ollama on HPC infrastructure. The framework enables controlled experiments on multi-agent coordination, contribution dynamics, communication effects, and model-level behavioural differences, with full job-level logging and experiment aggregation.
 
 ### [hpc-llm](https://github.com/rzuberi/hpc-llm)
 Building a SLURM-backed local LLM inference tool for CRUK CI that enables reproducible, logged, GPU-based model execution on institutional HPC infrastructure.
