@@ -10,7 +10,7 @@ rdaz2@cam.ac.uk · [LinkedIn](www.linkedin.com/in/rehanzuberi/) · [schedule a c
 
 ## Current Projects
 
-### [Multimodal progression prediction in Barrett’s oesophagus](https://github.com/rzuberi/barretts_progressor)  
+### [Multimodal progression prediction in Barrett’s oesophagus](https://github.com/rzuberi/multimodal-barretts-progression)  
 Developing and benchmarking multimodal models combining histopathology and copy number variation data to predict progression risk in Barrett’s oesophagus.
 
 ### [llm-contrib-game](https://github.com/rzuberi/llm-contrib-game)
