@@ -28,6 +28,15 @@ Minimal macOS SwiftUI application for real-time voice processing using AVAudioEn
 ### [spanish-cloze-practice](https://github.com/rzuberi/spanish-cloze-practice)
 Terminal-first Spanish cloze practice over SSH with spaced repetition, local progress tracking, and sentence cards built from the Tatoeba English-Spanish corpus.
 
+### [privacy-safe-ai-public-health-signal-monitoring](https://github.com/rzuberi/privacy-safe-ai-public-health-signal-monitoring)
+Privacy-aware early public-health signal monitoring prototype using synthetic data, interpretable anomaly detection, and cautious research-first framing.
+
+### [gvaldn-flight-track](https://github.com/rzuberi/gvaldn-flight-track)
+Weekend flight tracker for Geneva and London airports with a lightweight TypeScript workflow for route-level monitoring.
+
+### [async-guard-toy](https://github.com/rzuberi/async-guard-toy)
+Small reproducible benchmark for asynchronous monitoring of LLM coding-agent actions, with safe toy environments, per-action logs, and baseline monitors.
+
 ---
 
 ## Archived Projects
