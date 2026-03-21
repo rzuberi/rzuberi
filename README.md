@@ -25,6 +25,9 @@ Static GitHub Pages [website](https://rzuberi.github.io/uk-citizenship-practice/
 ### [autotune-live-mac](https://github.com/rzuberi/autotune-live-mac)  
 Minimal macOS SwiftUI application for real-time voice processing using AVAudioEngine. Implements live autotune intensity control, reverb control, device routing (input/output switching), and record mode with timestamped audio export. Designed as a lightweight, local, reproducible audio-processing pipeline runnable via Swift Package Manager (`swift run`) without Xcode UI dependencies.
 
+### [spanish-cloze-practice](https://github.com/rzuberi/spanish-cloze-practice)
+Terminal-first Spanish cloze practice over SSH with spaced repetition, local progress tracking, and sentence cards built from the Tatoeba English-Spanish corpus.
+
 ---
 
 ## Archived Projects
