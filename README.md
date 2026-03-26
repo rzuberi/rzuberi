@@ -37,6 +37,9 @@ Weekend flight tracker for Geneva and London airports with a lightweight TypeScr
 ### [async-guard-toy](https://github.com/rzuberi/async-guard-toy)
 Compact benchmark for testing whether simple monitors can catch suspicious coding-agent behaviour on realistic toy software tasks, with structured action, diff, test, and timing logs plus clean evaluation and failure-case reporting.
 
+### [eval-report-cards](https://github.com/rzuberi/eval-report-cards)
+Lightweight CLI for turning predictions, metrics, configuration, and optional logs into standardized evaluation reports with markdown, HTML, and machine-readable summaries across classification, ranking, and agent tasks.
+
 ---
 
 ## Archived Projects
