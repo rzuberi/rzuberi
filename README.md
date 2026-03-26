@@ -35,7 +35,7 @@ Privacy-aware early public-health signal monitoring prototype using synthetic da
 Weekend flight tracker for Geneva and London airports with a lightweight TypeScript workflow for route-level monitoring.
 
 ### [async-guard-toy](https://github.com/rzuberi/async-guard-toy)
-Small reproducible benchmark for asynchronous monitoring of LLM coding-agent actions, with safe toy environments, per-action logs, and baseline monitors.
+Compact benchmark for testing whether simple monitors can catch suspicious coding-agent behaviour on realistic toy software tasks, with structured action, diff, test, and timing logs plus clean evaluation and failure-case reporting.
 
 ---
 
