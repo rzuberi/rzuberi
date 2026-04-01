@@ -34,6 +34,9 @@ Designing and running repeated public-goods games where agents are LLMs executed
 ### [autotune-live-mac](https://github.com/rzuberi/autotune-live-mac)  
 Minimal macOS SwiftUI application for real-time voice processing using AVAudioEngine. Implements live autotune intensity control, reverb control, device routing, and record mode with timestamped audio export in a lightweight local pipeline runnable via Swift Package Manager.
 
+### [chrome-focus-blocker](https://github.com/rzuberi/chrome-focus-blocker)
+Chrome extension for blocking distracting websites with a local dashboard, built-in social and adult/NSFW groups, custom domain rules, and recurring weekly schedules.
+
 ### [gvaldn-flight-track](https://github.com/rzuberi/gvaldn-flight-track)
 Weekend flight tracker for Geneva and London airports with a lightweight TypeScript workflow for route-level monitoring.
 
