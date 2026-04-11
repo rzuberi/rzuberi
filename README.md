@@ -37,6 +37,9 @@ Minimal macOS SwiftUI application for real-time voice processing using AVAudioEn
 ### [chrome-focus-blocker](https://github.com/rzuberi/chrome-focus-blocker)
 Chrome extension for blocking distracting websites with a local dashboard, built-in social and adult/NSFW groups, custom domain rules, and recurring weekly schedules.
 
+### [multiple-terminal-window](https://github.com/rzuberi/multiple-terminal-window)
+Electron desktop app for spawning and viewing multiple live terminal windows in one place, intended as an early foundation for a more visual multi-session workflow.
+
 ### [gvaldn-flight-track](https://github.com/rzuberi/gvaldn-flight-track)
 Weekend flight tracker for Geneva and London airports with a lightweight TypeScript workflow for route-level monitoring.
 
