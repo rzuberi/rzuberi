@@ -16,6 +16,9 @@ Developing and benchmarking multimodal models combining histopathology and copy 
 ### [RAG-GuardBench](https://github.com/rzuberi/rag-guardbench)
 Compact benchmark for testing prompt injection, answer poisoning, protected-context leakage, and unsafe tool use in retrieval-augmented generation systems, with a minimal end-to-end RAG pipeline, lightweight defenses, and reproducible evaluation reports.
 
+### [mina](https://github.com/rzuberi/mina)
+Short medieval political strategy web game built with Next.js, a deterministic rules engine, local save/resume, and OpenRouter-backed advisor and game-master narration.
+
 ### [async-guard-toy](https://github.com/rzuberi/async-guard-toy)
 Compact benchmark for testing whether simple monitors can catch suspicious coding-agent behaviour on realistic toy software tasks, with structured action, diff, test, and timing logs plus clean evaluation and failure-case reporting.
 
