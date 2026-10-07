@@ -1,4 +1,4 @@
-# Rehan Zuberi
+# Rehan
 
 PhD researcher in Medical Sciences (AI in Oncology) at the University of Cambridge, working at the Cancer Research UK Cambridge Institute.
 
@@ -42,12 +42,6 @@ Chrome extension for blocking distracting websites with a local dashboard, built
 
 ### [multiple-terminal-window](https://github.com/rzuberi/multiple-terminal-window)
 Electron desktop app for spawning and viewing multiple live terminal windows in one place, intended as an early foundation for a more visual multi-session workflow.
-
-### [gvaldn-flight-track](https://github.com/rzuberi/gvaldn-flight-track)
-Weekend flight tracker for Geneva and London airports with a lightweight TypeScript workflow for route-level monitoring.
-
-### [uk-citizenship-practice](https://github.com/rzuberi/uk-citizenship-practice)
-Static GitHub Pages [website](https://rzuberi.github.io/uk-citizenship-practice/) for Life in the UK practice questions with a fast topic-first workflow and pre-computed LLM context generation for each question.
 
 ### [spanish-cloze-practice](https://github.com/rzuberi/spanish-cloze-practice)
 Terminal-first Spanish cloze practice over SSH with spaced repetition, local progress tracking, and sentence cards built from the Tatoeba English-Spanish corpus.
